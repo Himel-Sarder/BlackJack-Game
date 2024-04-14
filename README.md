@@ -3,7 +3,16 @@
 
 Welcome to the Blackjack game! This is a command-line implementation of the classic casino game Blackjack, also known as 21. In this game, you'll play against a computerized dealer and aim to beat them by getting as close to 21 points as possible without going over.
 
+## ScreenShots   
+![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/3b322f72-fcbb-4989-b8b7-337aa09e0a71)
+![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/ae787207-f1c3-4d94-b6cd-4782934a3163)
+![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/778f2f00-a306-411a-8405-dccad0c4c537)
+![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/972ba7b5-2668-404c-93b0-02d7aad340bf)
+![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/f9f3664e-1a3c-4c8a-9ae8-b274c27b49f3)
+![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/027e99eb-75ef-4a7c-bcb6-adfa8cf783e1)
 
+## Try it on Replit   
+[Click Me](https://replit.com/@AntuSarder/Blackjack-Game)
 
 ## Card introduction   
 ![image](https://github.com/Himel-Sarder/BlackJack-Game/assets/143216886/f1d59f0c-087f-4fcc-8402-97270f92898d)
