@@ -33,6 +33,11 @@ def create_deck():
             deck.append(card)
     return deck
 
+#Himel Sarder
+#Department of Computer Science and Engineering
+#Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
+
+
 # Define function to deal a card
 def deal_card(deck):
     card = random.choice(deck)
@@ -101,6 +106,10 @@ def play_blackjack(coins):
         else:
             print("Invalid choice! Please enter 'h' or 's'.")
 
+#Himel Sarder
+#Department of Computer Science and Engineering
+#Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
+
     # Dealer's turn
     if not is_bust(player_hand):
         print("\nDealer's hand:")
@@ -132,6 +141,9 @@ def play_blackjack(coins):
             print("Dealer busted! You win!")
             coins += 10
             '''
+#Himel Sarder
+#Department of Computer Science and Engineering
+#Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
 
     print()
     print(f"Current coins: {coins}")   
@@ -148,3 +160,7 @@ def play_blackjack(coins):
 
 # Play the game
 play_blackjack(coins)
+
+#Himel Sarder
+#Department of Computer Science and Engineering
+#Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
